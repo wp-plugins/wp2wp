@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WP2WP
-Plugin URI: http://www.utubon.com
+Plugin URI: http://www.utubon.com/?p=1758
 Description: 一个利用xmlrpc远程同步博客到另外的WP2PCS的程序
-Version:  1.0
+Version: 1.0
 Author: 否子戈
 Author URI: http://www.utubon.com
 */

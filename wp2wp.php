@@ -40,7 +40,12 @@ function wp_to_wp_options(){
 </style>
 <div class="wrap" id="wp2pcs-admin-dashbord">
 	<h2>WP2WP WordPress同步到其他WordPress</h2>
-	<div class="metabox-holder">
+  <p>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-0625745788201806" data-ad-slot="7099159194"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </p>
+  <div class="metabox-holder">
 		<div class="postbox">
 			<h3>远端博客设置</h3>
 			<div class="inside" style="border-bottom:1px solid #CCC;margin:0;padding:8px 10px;">
@@ -99,13 +104,9 @@ function wp_to_wp_options(){
 			</form>
 			</div>
 			<div class="inside" style="border-bottom:1px solid #CCC;margin:0;padding:8px 10px;">
+        <p>使用中的注意点，插件版本升级信息，或有什么问题，请到 http://www.utubon.com/?p=1758 了解或留言。</p>
 				<p>向插件作者捐赠：支付宝<code>476206120@qq.com</code>、财付通<code>476206120</code>、比特币<code>16tezAsqEZHhVz4xAmNAp8A5r7qMg1NG9P</code></p>
 				<p>如果你还想要更高级的功能，例如在后台写文章的时候增加选项，可以选择这篇文章只同步到上面配置的博客列表中的某一个或几个（非全部）的话，可以和我联系，获得更高级别的开发成果。476206120@qq.com <a href="http://www.utubon.com" target="_blank">乌徒帮</a></p>
-        <p>
-          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-0625745788201806" data-ad-slot="7099159194"></ins>
-          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </p>
 			</div>
 		</div>
 	</div>
